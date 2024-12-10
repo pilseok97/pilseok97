@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> 
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
@@ -50,9 +49,9 @@
 
 ### ♾️ Connect with me
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="Email" width="48px" src="https://img.icons8.com/color/48/000000/gmail.png" />](mailto:your_email@example.com)
+[<img align="left" alt="Phone" width="48px" src="https://img.icons8.com/color/48/000000/phone.png" />](tel:+821012345678)
+
 
 [website]: http://febseo.dothome.co.kr
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
