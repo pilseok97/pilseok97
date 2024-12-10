@@ -54,7 +54,7 @@
 
 
 <br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=donut)](https://github.com/your_github_username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilseok97&layout=donut)](https://github.com/your_github_username/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pilseok97&show_icons=true&locale=en" alt="your_github_username" />
 
