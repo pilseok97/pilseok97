@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Welcome!😊&desc=Explore%20My%20GitHub&fontSize=50&animation=fadeIn&fontColor=ffffff)
+
 
 
 <h1>Hi 👋, I'm Pilseok</h1>
