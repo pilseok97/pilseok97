@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
 
 
-<h1>Hi 👋, I'm YoonSeoyeon</h1>
+<h1>Hi 👋, I'm Pilseok</h1>
 <br>
 
-### 🙋 I'm Seoyeon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 윤서연입니다. <br>
+### 🙋 I'm Pilseok, Fullstack developer. 
+🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 이필석연입니다. <br>
 🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
 🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
 🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
-🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
+🔅 소심하나 적극적이고, 내성적이지만 활발합니다. 
 
 <br>
 
@@ -37,12 +37,12 @@
 <br>
 
 ### ⛺ Experiences
-<p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
+<p>(산대특) 프로젝트 기반 자바풀스택 개발과정 양성지원</p>
 
 <br>
 
 ### 🎓 Education
-<p>광운대학교 수학과 심화전공  |  2020.03 ~ </p>
+<p>경민대학교 정보통신과  |  2020.03 ~ </p>
 
 
     
